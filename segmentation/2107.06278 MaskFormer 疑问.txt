@@ -1,0 +1,2 @@
+3.3 Pixel-level module 中说输入图片大小为 HxW,通过 pixel decoder 将backbone的输出上采样为 HxW 的大小,
+但是在 4.1 的 Pixel decoder 中却说 pixel decoder 是将 stride=32 的图像上采样到了 stride=4,两处是不符合的

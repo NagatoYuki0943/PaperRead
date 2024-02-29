@@ -1,0 +1,1 @@
+Figure 2 显示图像经过 backbone 后 feature map 变小，后面经过 Pixel Decoder 图像变大，不过后面的结构显示图像右变小了，不清楚是真的变小了还是使用了之前 backbone 和 Pixel Decoder 的多尺度输出
